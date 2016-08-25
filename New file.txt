@@ -1,7 +1,8 @@
-Study
+﻿Study
 
 Friend
 
 dictionary
 
-book
+books.
+
