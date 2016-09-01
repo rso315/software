@@ -6,6 +6,10 @@ dictionary
 
 books.
 
+<<<<<<< HEAD
 ulsan
 
 oil
+=======
+trip
+>>>>>>> 코드실험
